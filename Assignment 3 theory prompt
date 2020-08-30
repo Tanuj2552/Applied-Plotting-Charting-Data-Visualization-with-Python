@@ -1,0 +1,32 @@
+PROMPT 1
+Identify the challenge level that you chose for the assignment:
+
+Easiest
+Harder
+Even harder
+Hardest
+
+ANSWER 1
+  Hardest
+
+
+PROMPT 2 (TITLE AND CAPTION FOR THE VISUAL)
+
+ANSWER 2
+
+  TITLE
+  An interactive bar graph plot comparing intensities of each bar graph in a given y value rangee
+
+  CAPTION
+  I made an interactive plot which plots the bars colors on the basis of the yerr and ymean of each bar with the given range of y values.
+  P.S - I kept the colors not in an effective way, because i did not find the colors as mentioned in the given video.
+
+PROMPT 3(TITLE AND CAPTION FOR CODE)
+  TITLE
+  code for interactive bar graph
+  
+  CAPTION
+  I wrote the code to work for an interactive way, but I uploaded a pic because, I took a screenrecorded in such a way that the graph shows more than 3 colors.
+  
+
+
