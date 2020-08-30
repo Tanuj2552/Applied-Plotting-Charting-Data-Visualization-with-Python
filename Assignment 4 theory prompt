@@ -1,0 +1,75 @@
+PROMPT 1
+State the region and the domain category that your data sets are about (e.g., Chaohu, China and sports or athletics).
+
+SOLUTION 1
+Andhra Pradesh, India
+Programming Languages
+
+
+PROMPT 2
+Create a research question about the domain category and region that you identified.
+
+SOLUTION 2
+What is the trend of programming languages among the most common ones?
+
+
+PROMPT 3
+Provide at least two links to publicly accessible datasets. 
+These could be links to files such as CSV or Excel files, or links to websites which might have data in tabular form, such as Wikipedia pages.
+
+SOLUTION 3
+https://trends.google.com/trends/explore?date=today%205-y&geo=IN-AP&q=%2Fm%2F05z1_
+
+https://trends.google.com/trends/explore?date=today%205-y&geo=IN-AP&q=%2Fm%2F07sbkfb
+
+https://trends.google.com/trends/explore?date=today%205-y&geo=IN-AP&q=%2Fm%2F02p97
+
+https://trends.google.com/trends/explore?date=today%205-y&geo=IN-AP&q=%2Fm%2F0jgqg
+
+
+PROMPT 4(Title and Caption for visual uploaded)
+  Title
+  An Overview of Trends of Programming Languages over a period of five years
+  Caption
+  A plot between Number of google searches of a specific language vs the dates of searches
+
+SOLUTION 4
+Visual is in the folder named 'Assignment 4 pic'
+
+PROMPT 5
+Provide a short (1-2 paragraphs) justification of how your visual addresses your research question.
+
+SOLUTION 5
+My question was about the trend of programming languages in my area, One of the best criteria for figuring the out the popularity is the number of google queries on that specific language.
+I collected the csv data of the number of google queries of a specific language over a period of 5 years from 2016 aug to 2020 august(till today)
+I plotted the values of those along y axis (scaled to 100) and dates on x axis
+In the graph, we can easily see the trend of all those languages, which started with java to be the most and ending with python to be the largest.
+
+
+PROMPT 6
+As this assignment is for the whole course, you must incorporate and defend the principles discussed in the first week, specifically, Cairo’s principles of truth, beauty, function, and insight.
+
+For each of the following prompts, please provide a response that links each principle to one or more elements of your visual.
+
+Describe your design choices for your visual in regards to Cairo's principle of truthfulness.
+Describe your design choices for your visual in regards to Cairo's principle of beauty.
+Describe your design choices for your visual in regards to Cairo's principle of functionality.
+Describe your design choices for your visual in regards to Cairo's principle of insightfulness.
+
+SOLUTION 6
+1.)I collected the data from 'Google' which is the most used and trusted search engine in the world and plotted it in a truthful manner
+2.)I followed the cairo's principle of beauty by maintaining a proper color for distinction between the languages and proper font sizes such that they are readable and not too large, and did not mix up any thing with other and avoided confusion in understanding the data
+3.)The best plot for this is a line plot because it shows the trend in a clear manner compared to other type of plots
+4.)As this a line plot, the reader can easily identify which is more searched than other, and which shows a qualitative result for the past 5 years that java was trending in the staring and finally ended with python to be the trendsetter,
+
+
+PROMPT 7(Title and Caption for Code)
+  Title
+  Code for getting the above plot
+  Caption
+  I used the simple concepts that were taught in the second week, I even added interactivity to the code(just for practice) but did not upload that code, since it was not asked
+
+SOLUTION 7
+Code is in the file  'Assignment 4 source code'
+
+
